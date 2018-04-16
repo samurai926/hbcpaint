@@ -61,12 +61,8 @@ supporting functions of the entry point.
 ### Running the tests
 
 The test suite gets automatically executed during the Maven install process 
-but you can run the suite manually by running the following class from your 
-favorite IDE:
-
-```
-/sitesearcher/src/test/java//sitesearcher/AppTest.java
-```
+but you can run the suite manually by running the test class from your 
+favorite IDE.
 
 ## This project was built with
 
